@@ -4,4 +4,4 @@ public class Main {
         MenuManager menuManager = new MenuManager(); // Create menu manager instance
         menuManager.run(); // Start the program
     }
-}
+} 
