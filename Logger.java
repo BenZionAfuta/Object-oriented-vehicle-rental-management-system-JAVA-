@@ -8,7 +8,7 @@ import java.time.format.DateTimeFormatter;
  */
 public class Logger {
     private static final String LOG_FILE = "system.log"; // Log file name
-    private static final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"); // Time format
+    private static final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"); // Time format 
 
     /**
      * Logs a message to the log fine with time and date
