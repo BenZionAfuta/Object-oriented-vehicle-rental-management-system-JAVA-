@@ -25,7 +25,7 @@ public class Logger {
         }
     }
 
-    /**
+    /** 
      * Logs an error message to console and file
      * @param errorMessage Error message to log
      */
